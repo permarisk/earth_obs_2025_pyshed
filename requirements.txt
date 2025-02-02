@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pysheds
+seaborn
+rasterio
+warnings
